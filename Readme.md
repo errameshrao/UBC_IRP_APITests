@@ -24,7 +24,7 @@ Class - UBCIRPTests
 Method - secondTestCase() - This step will valdiate the file paramter supplied to API or not.
 Expected status and Code - 422 Unprocessable Entity
 ```
-## 3. Test that the "User Agent" header is required when making a request.
+## 3. (Pending, required more details on it)Test that the "User Agent" header is required when making a request.
 ```
 Class - UBCIRPTests
 Method - thirdTestCase() - This test will valdiate the that 'User-Agent' header is passed or not.
